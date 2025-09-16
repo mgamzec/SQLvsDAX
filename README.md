@@ -771,10 +771,6 @@ Here's a preview of the types of problems solved in this repository:
         )
     ```
 
-## Contributing
-
-Feel free to contribute by adding more examples or improving existing ones. Please submit a pull request.
-
 ## License
 
 This project is licensed under the MIT License.
