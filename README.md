@@ -6,7 +6,6 @@ This repository contains a collection of practical SQL and DAX query examples de
 
 * **Demonstrate SQL Proficiency:** Showcase how to retrieve, filter, and aggregate data effectively using SQL.
 * **Illustrate DAX Power:** Highlight the capabilities of DAX in Power BI and other tools for complex calculations and data modeling.
-* **Facilitate Learning:** Provide clear, commented code for users to learn from and adapt to their own projects.
 
 ## Examples
 
